@@ -13,6 +13,8 @@ build like saas starter database use github action
 
 client that work with mcp server
 
+chatgpt client 
+
 
 tutorials about how to use in clients 
 
